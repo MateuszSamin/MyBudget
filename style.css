@@ -27,6 +27,8 @@ body{
 a{
     text-align: center;
     text-transform: none;
+    text-decoration: none;
+    font-size: larger;
 }
 
 /*Scroll*/
